@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassByValue/PassObjectAsParameter.iml" filepath="$PROJECT_DIR$/PassByValue/PassObjectAsParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+    </modules>
+  </component>
+</project>

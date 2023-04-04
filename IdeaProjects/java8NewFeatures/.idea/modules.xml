@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DbConn/DbConn.iml" filepath="$PROJECT_DIR$/DbConn/DbConn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClassConcept/InnerClassConcept.iml" filepath="$PROJECT_DIR$/InnerClassConcept/InnerClassConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8NewFeatures.iml" filepath="$PROJECT_DIR$/java8NewFeatures.iml" />
+    </modules>
+  </component>
+</project>
